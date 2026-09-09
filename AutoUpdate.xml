@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
-    <version>1.0.0.81</version>
+    <version>1.0.0.82</version>
     <url>https://raw.githubusercontent.com/reayidhaa/SchoolManagementSystem/main/SchoolManagementSystem.exe</url>
     <changelog>https://github.com/reayidhaa/SchoolManagementSystem</changelog>
     <mandatory>false</mandatory>
